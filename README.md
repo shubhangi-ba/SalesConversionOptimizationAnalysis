@@ -18,5 +18,5 @@ The data used in this project is from an anonymous organisation’s social media
 10. Total conversion: Total number of people who enquired about the product after seeing the ad.
 11. Approved conversion: Total number of people who bought the product after seeing the ad.
 
-### Acknowledge
+### Acknowledgement
 This project and dataset is inspired from [kaggle.com](https://www.kaggle.com/loveall/clicks-conversion-tracking?select=KAG_conversion_data.csv).
